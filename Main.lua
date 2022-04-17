@@ -1,5 +1,5 @@
 --[[
-    Venti ESP | discord.gg/Kenta
+    Venti ESP
     
     Other = People not on your Team
     Team = People on your Team
@@ -108,4 +108,4 @@ spawn(function()
     end
 end)
 
-print("Venti [Loaded! Made by ArskyCache#5254 | discord.gg/kenta]")
+print("Venti [Loaded!]")
